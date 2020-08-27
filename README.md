@@ -22,7 +22,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. Uses pipeline command to create a new tidy dataset with command group_by and summarize_each in dplyr package
 
-* tidyData.txt is the output of the final step
+* tidydata.txt is the output of the final step
 
 
 ## GettingandCleaningData-Week4Assignment
