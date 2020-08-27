@@ -25,7 +25,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 * tidyData.txt is the output of the final step
 
 
-## Getting-and-Cleaning-Data-Week-4-Assignment
+## GettingandCleaningData-Week4Assignment
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
 First, download and unzip the data file into your R working directory.
